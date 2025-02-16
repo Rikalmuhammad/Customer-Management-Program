@@ -21,7 +21,7 @@ This is a Customer Management Program built using Python. The program allows use
 
 Python 3.x
 
-Required libraries: tabulate
+Required libraries: tabulate and datetime
 
 # Analysis Possibilities
 
