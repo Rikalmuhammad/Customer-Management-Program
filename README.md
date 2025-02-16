@@ -1,4 +1,8 @@
 # Capstone Project Module-1: Customer Management Program
+This project was created to fulfill the Capstone Project Module 1 requirement as part of the Data Science and Analytics Bootcamp at Purwadhika. The program was developed by following the minimum feature requirements outlined in the provided guidelines and flowchart.
+
+I built this program entirely based on my current skills, which I have acquired throughout the learning process in class. I would like to express my gratitude to my lecturer, **M. Faroja**, for his guidance during this learning journey.
+
 This is a Customer Management Program built using Python. The program allows users to efficiently manage customer data, including adding, updating, deleting, and saving customer records. It is designed for small to medium-sized businesses that need a straightforward way to maintain customer information.
 
 # Features
